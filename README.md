@@ -17,7 +17,9 @@ A simple and stylish web calculator built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## 📷 Screenshot
-![Calculator Screenshot](screenshot.png) <!-- Optional if you want to upload an image -->
+
+![Calculator Screenshot](screenshot.png)
+
 
 ---
 
